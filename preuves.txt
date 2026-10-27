@@ -1,0 +1,17 @@
+J06 — Preuve d’exécution
+
+Commande réellement lancée dans Windows PowerShell :
+node .\depenses.js
+
+Sortie obtenue après avoir terminé le programme :
+===== Bilan des depenses de la semaine ===
+Tableau initial (avant tri) :[1500,2500,0,4000,1000,2500,3000]
+Total :14500FCFA
+Moyenne par jour :2071.43FCFA
+Dépenses au-dessus de 2000 :[2500,4000,2500,3000]
+Maximum :4000FCFA
+Copie triée :[0,1000,1500,2500,2500,3000,4000]
+Tableau initial (après tri) :[1500,2500,0,4000,1000,2500,3000]
+
+Archive à remettre : J06_Nom_Prenom.zip
+Contenu attendu : depenses.js et preuves.txt
